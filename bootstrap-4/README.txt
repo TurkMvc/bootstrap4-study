@@ -1,0 +1,3 @@
+- Download the bootstrap-4.zip file
+- Unzip the downloading file.
+- Run the index.html file.
